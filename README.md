@@ -1,2 +1,2 @@
-# Smartkid
+# Smartbook
 First repository
